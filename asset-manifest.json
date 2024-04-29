@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/letter/static/css/main.c544bdfe.css",
+    "main.js": "/letter/static/js/main.cccd7941.js",
+    "static/js/453.46b8364b.chunk.js": "/letter/static/js/453.46b8364b.chunk.js",
+    "static/media/kushii.mp3": "/letter/static/media/kushii.bbdd7ab823552a826eb0.mp3",
+    "index.html": "/letter/index.html",
+    "main.c544bdfe.css.map": "/letter/static/css/main.c544bdfe.css.map",
+    "main.cccd7941.js.map": "/letter/static/js/main.cccd7941.js.map",
+    "453.46b8364b.chunk.js.map": "/letter/static/js/453.46b8364b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c544bdfe.css",
+    "static/js/main.cccd7941.js"
+  ]
+}
